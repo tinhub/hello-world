@@ -1,2 +1,6 @@
 hello world
+<<<<<<< HEAD
 added another lin
+=======
+gethub example
+>>>>>>> 822629d8c2b9a34e4c7c8d1275eb5c4a41c1bc4f
